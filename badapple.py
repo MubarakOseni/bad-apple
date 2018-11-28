@@ -5,7 +5,6 @@ from collections import deque
 
 
 
-# Note: some of the codes are not mine , code snippet from pygame user (susah) were used.
 
 pygame.init()
 size = 800,600
